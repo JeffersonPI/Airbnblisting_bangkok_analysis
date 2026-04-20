@@ -89,7 +89,7 @@ Results are based on simulation assumptions and should be validated with real-wo
 
 ## Project Files
 - Dashboard (Tableau): *https://public.tableau.com/views/CapstoneProject2_17766428397280/AirbnbBangkokMarketAnalysisSupplyDemandStrategyInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*  
-- Notebook (EDA & analysis): *[add your link]*  
+- Notebook (EDA & analysis): *https://github.com/JeffersonPI/Airbnblisting_bangkok_analysis.git*  
 - Presentation & Video (PPT & MP4): *https://drive.google.com/drive/folders/1TdwCGArL3aBWEJorwUuioeLjMu2ej4t5?usp=sharing*  
 
 ---
